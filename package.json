@@ -1,6 +1,9 @@
 {
   "name": "gatsby-test",
   "version": "1.0.0",
+  "engines": {
+    "node": "20.x"
+  },
   "private": true,
   "description": "gatsby-test",
   "author": "Konstantin",
