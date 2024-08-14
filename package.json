@@ -4,6 +4,9 @@
   "description": "A simple starter to get up and developing quickly with Gatsby",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "gatsby": "^5.13.5",
     "gatsby-plugin-image": "^3.13.1",
